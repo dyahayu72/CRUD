@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Tutorial Laravel #4 : Passing Data Controller Ke View Laravel - www.malasngoding.com</title>
+	<title>Tes Tutorial Laravel #4 : Passing Data Controller Ke View Laravel - www.malasngoding.com</title>
 </head>
 <body>
  
